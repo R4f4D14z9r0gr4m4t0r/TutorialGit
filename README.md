@@ -1,1 +1,3 @@
-Aprendendo a mexer no Github e com Git
+Mexendo no Github e com Git
+
+Agora eu sei mandar o codigo para o Github
